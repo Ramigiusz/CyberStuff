@@ -1,1 +1,2 @@
-A set of activities made while learning from Google Cybersecurity course on Coursera
+A set of activities made while learning from courses and guided labs.
+The purpose of this repository is to store documentation that may come in handy when you need to recall certain terms.
