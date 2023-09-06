@@ -1,2 +1,2 @@
 A set of activities made while learning from courses and guided labs.
-The purpose of this repository is to store documentation that may come in handy when you need to recall certain terms.
+The purpose of this repository is to store documentation that may come in handy when you need to recall certain terms or guides
